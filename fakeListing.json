@@ -1,0 +1,335 @@
+{
+  "listings": [
+    {
+      "id": "GMU-101",
+      "title": "Spacious 2-Bedroom Apartment Near GMU",
+      "price": 1550,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "areaSqFt": 850,
+      "address": {
+        "street": "4201 Patriot Circle",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Washer/Dryer",
+        "Gym Access",
+        "Pet Friendly",
+        "Parking Spot"
+      ],
+      "images": [
+        "https://example.com/images/gmu_apt1_1.jpg",
+        "https://example.com/images/gmu_apt1_2.jpg"
+      ],
+      "listedDate": "2026-01-10",
+      "agent": {
+        "name": "Laura Jenkins",
+        "phone": "+1-555-321-7765",
+        "email": "laura.jenkins@example.com"
+      }
+    },
+    {
+      "id": "GMU-102",
+      "title": "1-Bedroom Studio, Walk to Campus",
+      "price": 1200,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "studio",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 550,
+      "address": {
+        "street": "1020 University Drive",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Furnished",
+        "Air Conditioning",
+        "High-Speed Internet"
+      ],
+      "images": [
+        "https://example.com/images/gmu_studio1.jpg"
+      ],
+      "listedDate": "2026-01-09",
+      "agent": {
+        "name": "Ethan Clarke",
+        "phone": "+1-555-442-9988",
+        "email": "ethan.clarke@example.com"
+      }
+    },
+    {
+      "id": "GMU-103",
+      "title": "Shared 3-Bedroom House, 5-Min Walk to GMU",
+      "price": 950,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "house",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "areaSqFt": 1200,
+      "address": {
+        "street": "17 Mason Lane",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Backyard",
+        "Shared Kitchen",
+        "Parking Available"
+      ],
+      "images": [
+        "https://example.com/images/gmu_house1_1.jpg",
+        "https://example.com/images/gmu_house1_2.jpg"
+      ],
+      "listedDate": "2026-01-08",
+      "agent": {
+        "name": "Sophia Patel",
+        "phone": "+1-555-678-5542",
+        "email": "sophia.patel@example.com"
+      }
+    },
+    {
+      "id": "GMU-104",
+      "title": "Luxury 1-Bedroom Condo at Mason Towers",
+      "price": 1750,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 700,
+      "address": {
+        "street": "800 University Blvd",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Gym",
+        "Rooftop Access",
+        "Elevator",
+        "Furnished"
+      ],
+      "images": [
+        "https://example.com/images/gmu_condo1.jpg"
+      ],
+      "listedDate": "2026-01-07",
+      "agent": {
+        "name": "Marcus Lee",
+        "phone": "+1-555-221-3344",
+        "email": "marcus.lee@example.com"
+      }
+    },
+    {
+      "id": "GMU-105",
+      "title": "Budget Room in Shared Apartment",
+      "price": 800,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "room",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 300,
+      "address": {
+        "street": "23 Patriot Ave",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Shared Kitchen",
+        "Laundry On-Site",
+        "High-Speed Internet"
+      ],
+      "images": [
+        "https://example.com/images/gmu_room1.jpg"
+      ],
+      "listedDate": "2026-01-06",
+      "agent": {
+        "name": "Rebecca Chen",
+        "phone": "+1-555-889-1122",
+        "email": "rebecca.chen@example.com"
+      }
+    },
+    {
+      "id": "GMU-106",
+      "title": "Modern 2-Bedroom Apartment in Fairfax City",
+      "price": 1600,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "apartment",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "areaSqFt": 900,
+      "address": {
+        "street": "1500 Fairfax Circle",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Parking Spot",
+        "Gym Access",
+        "Pet Friendly",
+        "In-Unit Laundry"
+      ],
+      "images": [
+        "https://example.com/images/gmu_apt2_1.jpg",
+        "https://example.com/images/gmu_apt2_2.jpg"
+      ],
+      "listedDate": "2026-01-05",
+      "agent": {
+        "name": "Jordan Kim",
+        "phone": "+1-555-334-7766",
+        "email": "jordan.kim@example.com"
+      }
+    },
+    {
+      "id": "GMU-107",
+      "title": "1-Bedroom Cozy Condo, Near Mason Shuttle",
+      "price": 1350,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "condo",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 600,
+      "address": {
+        "street": "102 Mason Way",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Furnished",
+        "Elevator",
+        "High-Speed Internet",
+        "Gym Access"
+      ],
+      "images": [
+        "https://example.com/images/gmu_condo2.jpg"
+      ],
+      "listedDate": "2026-01-04",
+      "agent": {
+        "name": "Natalie Green",
+        "phone": "+1-555-667-8899",
+        "email": "natalie.green@example.com"
+      }
+    },
+    {
+      "id": "GMU-108",
+      "title": "Shared 4-Bedroom House Near GMU",
+      "price": 850,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "house",
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "areaSqFt": 1400,
+      "address": {
+        "street": "75 Patriot Street",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Backyard",
+        "Parking",
+        "Shared Kitchen",
+        "Pet Friendly"
+      ],
+      "images": [
+        "https://example.com/images/gmu_house2_1.jpg",
+        "https://example.com/images/gmu_house2_2.jpg"
+      ],
+      "listedDate": "2026-01-03",
+      "agent": {
+        "name": "Liam O'Connor",
+        "phone": "+1-555-443-2211",
+        "email": "liam.oconnor@example.com"
+      }
+    },
+    {
+      "id": "GMU-109",
+      "title": "Studio Apartment, All Utilities Included",
+      "price": 1150,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "studio",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "areaSqFt": 500,
+      "address": {
+        "street": "1900 Mason Drive",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Utilities Included",
+        "Furnished",
+        "High-Speed Internet"
+      ],
+      "images": [
+        "https://example.com/images/gmu_studio2.jpg"
+      ],
+      "listedDate": "2026-01-02",
+      "agent": {
+        "name": "Olivia Smith",
+        "phone": "+1-555-112-3344",
+        "email": "olivia.smith@example.com"
+      }
+    },
+    {
+      "id": "GMU-110",
+      "title": "2-Bedroom Apartment with Balcony",
+      "price": 1500,
+      "currency": "USD",
+      "status": "available",
+      "propertyType": "apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "areaSqFt": 820,
+      "address": {
+        "street": "450 Mason Avenue",
+        "city": "Fairfax",
+        "state": "VA",
+        "zip": "22030",
+        "country": "USA"
+      },
+      "amenities": [
+        "Balcony",
+        "In-Unit Laundry",
+        "Gym Access",
+        "Parking"
+      ],
+      "images": [
+        "https://example.com/images/gmu_apt3_1.jpg",
+        "https://example.com/images/gmu_apt3_2.jpg"
+      ],
+      "listedDate": "2026-01-01",
+      "agent": {
+        "name": "Connor Davis",
+        "phone": "+1-555-778-9900",
+        "email": "connor.davis@example.com"
+      }
+    }
+  ]
+}
